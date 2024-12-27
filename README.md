@@ -1,5 +1,5 @@
 # FourWord
-A simple word guessing game where the player has to guess a 4-letter word within 5 attempts. It's a clone of the popular Wordle game, but with 4 letters. After each guess, hints are provided to guide the player. The hints include:
+Word guessing game where the player has to guess a 4-letter word within 5 attempts. It's a clone of the popular Wordle game, but with 4 letters. After each guess, hints are provided to guide the player. The hints include:
 1. **Correct Letters at Correct Index**: Letters that match the correct word and position.
 2. **Letters in the Word But Not at the Correct Index**: Letters that exist in the word but are not at the correct position.
 
