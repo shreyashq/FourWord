@@ -24,4 +24,4 @@ Word guessing game where the player has to guess a 4-letter word within 5 attemp
 6. If you guess the word correctly, you win. If not, you’ll lose after 5 guesses.
 
 ##Demo 
-![Sample Image](Demo.png)
+--![Sample Image](Demo.png)
