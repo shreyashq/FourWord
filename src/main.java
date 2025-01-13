@@ -25,7 +25,7 @@ public class main {
                     .findFirst()
                     .orElse("No word found!");
 
-            System.out.println("We have selected a 4 letter word, try to guess it in 5 guesses: ");
+            System.out.println("We have selected a 5 letter word, try to guess it in 5 guesses: ");
             Scanner sc = new Scanner(System.in);
             int userWin = 0;
             int guessCount = 5;
