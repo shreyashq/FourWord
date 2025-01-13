@@ -13,4 +13,4 @@ A fun 5-letter word guessing game inspired by Wordle! Guess the word in 5 tries 
 ## Requirements  
 - Java 8 or later
 
-![Sample Image](demo.png)
+![Sample Image](image.png)
